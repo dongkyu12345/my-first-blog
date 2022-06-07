@@ -1,0 +1,8 @@
+body {
+    font-family: 'Joan', serif;
+}
+img {
+    hegiht: 200px;
+    width: 200px;
+    object-fit: contain;
+}
